@@ -1,0 +1,11 @@
+# Windows and macOS metadata
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Pentaho and editor temporary files
+.kettle/
+*.log
+*.tmp
+*.bak
+*.swp
