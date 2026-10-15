@@ -36,5 +36,3 @@ Configure the database connections named `DataEngineeringOltp` and `DataEngineer
 - [Pentaho ETL](etl/pentaho/Job.kjb)
 - [Power BI dashboard](dashboard/DATENG%20project.pbix)
 - [Project report](docs/Laporan%20Data%20Engineering.pdf)
-
-Before publishing this repository publicly, confirm that the report and dashboard do not contain data or information that should remain private.
